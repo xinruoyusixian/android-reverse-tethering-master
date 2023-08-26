@@ -1,0 +1,11 @@
+{
+    "server":"localhost",
+    "server_port":18630,
+    "local_address":"127.0.0.1",
+    "local_port":1080,
+    "password":"android",
+    "timeout":600,
+    "method":"aes-256-cfb",
+    "http_proxy": true,
+    "auth": false
+}
